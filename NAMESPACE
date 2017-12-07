@@ -1,0 +1,10 @@
+exportClasses(trenaSNP)
+
+export(
+  trenaSNP
+  )
+
+exportMethods(
+   getVariantTable
+   )
+

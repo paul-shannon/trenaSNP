@@ -1,0 +1,12 @@
+Package: trenaSNP
+Type: Package
+Title: Analyze single nucleotide variants in the context of gene regulation
+Version: 0.99.0
+Date: 2017-12-07
+Author: Paul Shannon
+Maintainer:  <pshannon@systemsbiology.org>
+Depends: R (>= 3.4.0), trena, trenaViz
+Suggests: RUnit
+Description:  Analyze single nucleotide variants in the context of gene regulation
+License: GPL
+LazyLoad: yes
