@@ -5,6 +5,11 @@ export(
   )
 
 exportMethods(
-   getVariantTable
+   getVariantTable,
+   displayVariants,
+   showGenomicRegion,
+   getGenomicRegion,
+   findMotifs,
+   createModel
    )
 
